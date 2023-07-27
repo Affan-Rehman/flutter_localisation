@@ -12,9 +12,6 @@ Say goodbye to tedious localization tasks! Flutter Localiser offers an intuitive
 
 No more guesswork! With Flutter Localiser, you can instantly see the translations within your app during development. Test different languages and ensure that every text element looks perfect across all locales. Embrace the power of real-time preview and create an engaging user experience tailored to every audience. 👀👩‍💻
 
-## Export and Share Your Localizations 📦✉️
-
-Effortlessly export your app's localizations in various formats, including .arb and .json, for seamless integration into your Flutter project. Collaborate with translation teams and share localization files effortlessly. Say goodbye to manual file management and embrace a smooth localization workflow. 📂🤝
 
 ## Beautiful and Responsive User Interface 🎨📱
 
